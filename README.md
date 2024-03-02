@@ -1,2 +1,2 @@
-# Oasis_Task2
+# Tribute Page
 I developed this tribute page using HTML CSS &amp; JavaScript
